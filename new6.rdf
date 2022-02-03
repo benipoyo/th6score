@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF 
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"	
+	xml:lang="ja">
+	 
+	<channel rdf:about="http://score.royalflare.net/th06/new6.rdf">
+		<title><![CDATA[紅紅紅紅紅スコアボード]]></title>
+		<link>http://score.royalflare.net/th06/</link>
+		<description><![CDATA[東方紅魔郷のスコアボードです]]></description>
+		<items>
+			<rdf:Seq>
+			
+			<rdf:li rdf:resource="http://score.royalflare.net/th06/replay6/th6_ud0000.rpy"/>
+	
+			</rdf:Seq>
+		</items>
+	</channel>
+	
+	<item rdf:about="http://score.royalflare.net/th06/replay6/th6_ud0000.rpy">
+		<title><![CDATA[2022/02/03 21:25:24 int (Extra, 恋符, ☆632,464,440)]]></title>
+		<link>http://score.royalflare.net/th06/replay6/th6_ud0000.rpy</link>
+		<description><![CDATA[
+登録日：2022/02/03 21:25:24
+名前：int
+難易度：Extra
+使用キャラ：霧雨 魔理沙（恋符）
+スコア：☆632,464,440
+処理落ち率:0.101%
+プレイ日付：2022/02/03
+コメント：レーヴァ被弾
+アカインドカス
+]]></description>
+	</item>
+	
+</rdf:RDF>
