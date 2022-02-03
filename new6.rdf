@@ -4,22 +4,22 @@
 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"	
 	xml:lang="ja">
 	 
-	<channel rdf:about="http://score.royalflare.net/th06/new6.rdf">
+	<channel rdf:about="https://benipoyo.github.io/th6score/new6.rdf">
 		<title><![CDATA[紅紅紅紅紅スコアボード]]></title>
-		<link>http://score.royalflare.net/th06/</link>
+		<link>https://benipoyo.github.io/th6score/</link>
 		<description><![CDATA[東方紅魔郷のスコアボードです]]></description>
 		<items>
 			<rdf:Seq>
 			
-			<rdf:li rdf:resource="http://score.royalflare.net/th06/replay6/th6_ud0000.rpy"/>
+			<rdf:li rdf:resource="https://benipoyo.github.io/th6score/replay6/th6_ud0000.rpy"/>
 	
 			</rdf:Seq>
 		</items>
 	</channel>
 	
-	<item rdf:about="http://score.royalflare.net/th06/replay6/th6_ud0000.rpy">
+	<item rdf:about="https://benipoyo.github.io/th6score/replay6/th6_ud0000.rpy">
 		<title><![CDATA[2022/02/03 21:25:24 int (Extra, 恋符, ☆632,464,440)]]></title>
-		<link>http://score.royalflare.net/th06/replay6/th6_ud0000.rpy</link>
+		<link>https://benipoyo.github.io/th6score/replay6/th6_ud0000.rpy</link>
 		<description><![CDATA[
 登録日：2022/02/03 21:25:24
 名前：int
