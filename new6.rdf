@@ -11,6 +11,8 @@
 		<items>
 			<rdf:Seq>
 			
+			<rdf:li rdf:resource="https://benipoyo.github.io/th6score/replay6/th6_ud0005.rpy"/>
+	
 			<rdf:li rdf:resource="https://benipoyo.github.io/th6score/replay6/th6_ud0004.rpy"/>
 	
 			<rdf:li rdf:resource="https://benipoyo.github.io/th6score/replay6/th6_ud0003.rpy"/>
@@ -24,6 +26,21 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	
+	<item rdf:about="https://benipoyo.github.io/th6score/replay6/th6_ud0005.rpy">
+		<title><![CDATA[2022/04/20 23:38:51 int (Normal, 恋符, ☆315,004,620)]]></title>
+		<link>https://benipoyo.github.io/th6score/replay6/th6_ud0005.rpy</link>
+		<description><![CDATA[
+登録日：2022/04/20 23:38:51
+名前：int
+難易度：Normal
+使用キャラ：霧雨 魔理沙（恋符）
+スコア：☆315,004,620
+処理落ち率:0.272%
+プレイ日付：2022/04/20
+コメント：目標：334
+]]></description>
+	</item>
 	
 	<item rdf:about="https://benipoyo.github.io/th6score/replay6/th6_ud0004.rpy">
 		<title><![CDATA[2022/02/06 06:07:13 int (Extra, 魔符, ☆616,890,460)]]></title>
