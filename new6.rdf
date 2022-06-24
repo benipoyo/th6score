@@ -11,6 +11,8 @@
 		<items>
 			<rdf:Seq>
 			
+			<rdf:li rdf:resource="https://benipoyo.github.io/th6score/replay6/th6_ud0006.rpy"/>
+	
 			<rdf:li rdf:resource="https://benipoyo.github.io/th6score/replay6/th6_ud0005.rpy"/>
 	
 			<rdf:li rdf:resource="https://benipoyo.github.io/th6score/replay6/th6_ud0004.rpy"/>
@@ -26,6 +28,21 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	
+	<item rdf:about="https://benipoyo.github.io/th6score/replay6/th6_ud0006.rpy">
+		<title><![CDATA[2022/06/25 05:17:49 int (Extra, 夢符, ☆648,138,820)]]></title>
+		<link>https://benipoyo.github.io/th6score/replay6/th6_ud0006.rpy</link>
+		<description><![CDATA[
+登録日：2022/06/25 05:17:49
+名前：int
+難易度：Extra
+使用キャラ：博麗 霊夢（夢符）
+スコア：☆648,138,820
+処理落ち率:0.109%
+プレイ日付：2022/06/24
+コメント：ボス戦カス
+]]></description>
+	</item>
 	
 	<item rdf:about="https://benipoyo.github.io/th6score/replay6/th6_ud0005.rpy">
 		<title><![CDATA[2022/04/20 23:38:51 int (Normal, 恋符, ☆315,004,620)]]></title>
@@ -58,14 +75,14 @@
 	</item>
 	
 	<item rdf:about="https://benipoyo.github.io/th6score/replay6/th6_ud0003.rpy">
-		<title><![CDATA[2022/02/06 06:05:02 int (Extra, 夢符, ☆639,601,730)]]></title>
+		<title><![CDATA[2022/02/06 06:05:02 int (Extra, 夢符, ◇639,601,730)]]></title>
 		<link>https://benipoyo.github.io/th6score/replay6/th6_ud0003.rpy</link>
 		<description><![CDATA[
 登録日：2022/02/06 06:05:02
 名前：int
 難易度：Extra
 使用キャラ：博麗 霊夢（夢符）
-スコア：☆639,601,730
+スコア：◇639,601,730
 処理落ち率:0.107%
 プレイ日付：2021/09/09
 コメント：本旧 アカインド右
