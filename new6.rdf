@@ -11,6 +11,8 @@
 		<items>
 			<rdf:Seq>
 			
+			<rdf:li rdf:resource="https://benipoyo.github.io/th6score/replay6/th6_ud0010.rpy"/>
+	
 			<rdf:li rdf:resource="https://benipoyo.github.io/th6score/replay6/th6_ud000f.rpy"/>
 	
 			<rdf:li rdf:resource="https://benipoyo.github.io/th6score/replay6/th6_ud000e.rpy"/>
@@ -47,15 +49,30 @@
 		</items>
 	</channel>
 	
+	<item rdf:about="https://benipoyo.github.io/th6score/replay6/th6_ud0010.rpy">
+		<title><![CDATA[2023/07/02 05:01:57 int (Normal, 霊符, ☆312,301,490)]]></title>
+		<link>https://benipoyo.github.io/th6score/replay6/th6_ud0010.rpy</link>
+		<description><![CDATA[
+登録日：2023/07/02 05:01:57
+名前：int
+難易度：Normal
+使用キャラ：博麗 霊夢（霊符）
+スコア：☆312,301,490
+処理落ち率:0.281%
+プレイ日付：2023/07/02
+コメント：ナイフｗ
+]]></description>
+	</item>
+	
 	<item rdf:about="https://benipoyo.github.io/th6score/replay6/th6_ud000f.rpy">
-		<title><![CDATA[2023/07/01 06:35:50 int (Normal, 霊符, ☆305,666,850)]]></title>
+		<title><![CDATA[2023/07/01 06:35:50 int (Normal, 霊符, ◇305,666,850)]]></title>
 		<link>https://benipoyo.github.io/th6score/replay6/th6_ud000f.rpy</link>
 		<description><![CDATA[
 登録日：2023/07/01 06:35:50
 名前：int
 難易度：Normal
 使用キャラ：博麗 霊夢（霊符）
-スコア：☆305,666,850
+スコア：◇305,666,850
 処理落ち率:0.255%
 プレイ日付：2023/07/01
 コメント：6面ｗ
