@@ -11,6 +11,8 @@
 		<items>
 			<rdf:Seq>
 			
+			<rdf:li rdf:resource="https://benipoyo.github.io/th6score/replay6/th6_ud001a.rpy"/>
+	
 			<rdf:li rdf:resource="https://benipoyo.github.io/th6score/replay6/th6_ud0019.rpy"/>
 	
 			<rdf:li rdf:resource="https://benipoyo.github.io/th6score/replay6/th6_ud0018.rpy"/>
@@ -67,15 +69,30 @@
 		</items>
 	</channel>
 	
+	<item rdf:about="https://benipoyo.github.io/th6score/replay6/th6_ud001a.rpy">
+		<title><![CDATA[2025/09/16 07:51:29 int (Extra, 霊符, ☆649,850,640)]]></title>
+		<link>https://benipoyo.github.io/th6score/replay6/th6_ud001a.rpy</link>
+		<description><![CDATA[
+登録日：2025/09/16 07:51:29
+名前：int
+難易度：Extra
+使用キャラ：博麗 霊夢（霊符）
+スコア：☆649,850,640
+処理落ち率:0.079%
+プレイ日付：2025/09/16
+コメント：451-1 ;___;
+]]></description>
+	</item>
+	
 	<item rdf:about="https://benipoyo.github.io/th6score/replay6/th6_ud0019.rpy">
-		<title><![CDATA[2025/07/21 07:18:55 int (Extra, 霊符, ☆647,304,390)]]></title>
+		<title><![CDATA[2025/07/21 07:18:55 int (Extra, 霊符, ◇647,304,390)]]></title>
 		<link>https://benipoyo.github.io/th6score/replay6/th6_ud0019.rpy</link>
 		<description><![CDATA[
 登録日：2025/07/21 07:18:55
 名前：int
 難易度：Extra
 使用キャラ：博麗 霊夢（霊符）
-スコア：☆647,304,390
+スコア：◇647,304,390
 処理落ち率:0.089%
 プレイ日付：2025/07/21
 コメント：450
@@ -159,14 +176,14 @@
 	</item>
 	
 	<item rdf:about="https://benipoyo.github.io/th6score/replay6/th6_ud0013.rpy">
-		<title><![CDATA[2024/01/16 18:26:37 int (Extra, 霊符, ◇643,092,740)]]></title>
+		<title><![CDATA[2024/01/16 18:26:37 int (Extra, 霊符, △643,092,740)]]></title>
 		<link>https://benipoyo.github.io/th6score/replay6/th6_ud0013.rpy</link>
 		<description><![CDATA[
 登録日：2024/01/16 18:26:37
 名前：int
 難易度：Extra
 使用キャラ：博麗 霊夢（霊符）
-スコア：◇643,092,740
+スコア：△643,092,740
 処理落ち率:0.092%
 プレイ日付：2024/01/16
 コメント：424
@@ -234,14 +251,14 @@
 	</item>
 	
 	<item rdf:about="https://benipoyo.github.io/th6score/replay6/th6_ud000e.rpy">
-		<title><![CDATA[2023/04/17 05:05:32 int (Extra, 霊符, △642,521,690)]]></title>
+		<title><![CDATA[2023/04/17 05:05:32 int (Extra, 霊符, 642,521,690)]]></title>
 		<link>https://benipoyo.github.io/th6score/replay6/th6_ud000e.rpy</link>
 		<description><![CDATA[
 登録日：2023/04/17 05:05:32
 名前：int
 難易度：Extra
 使用キャラ：博麗 霊夢（霊符）
-スコア：△642,521,690
+スコア：642,521,690
 処理落ち率:0.082%
 プレイ日付：2023/04/17
 コメント：初Ex全1　432枚
